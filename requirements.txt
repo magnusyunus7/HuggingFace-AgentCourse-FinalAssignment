@@ -1,2 +1,8 @@
-gradio
+gradio[oauth]
 requests
+pandas
+openpyxl
+tabulate
+smolagents
+ddgs
+markdownify
