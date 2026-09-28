@@ -3,6 +3,7 @@ requests
 pandas
 openpyxl
 tabulate
-smolagents
-ddgs
-markdownify
+pillow
+smolagents[toolkit,litellm]
+youtube-transcript-api
+huggingface_hub
